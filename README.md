@@ -48,7 +48,7 @@ public class PanierAchat {
         System.out.printf("Produit 2 : %s, Prix Unitaire : %.2f€, Quantité : %d, Total : %.2f€\n", nomProduit2, prixUnitaire2, quantite2, prixUnitaire2 * quantite2);
         System.out.printf("Total du panier : %.2f€\n", total);
 
-        // Etape 4 : Saisie des informations
+## Étape 4 - Saisie des informations
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("\nEntrez la quantité de stylos : ");
